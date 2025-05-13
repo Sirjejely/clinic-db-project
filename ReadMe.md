@@ -21,3 +21,10 @@ This project is a complete **Clinic Management Database** designed using **MySQL
 1. Clone the repo:
 ```bash
 git clone https://github.com/Sirjejely/clinic-db-project.git
+
+2. Open your work bench and CREATE DATABASE clinic_management
+
+3. Import the clinic-management.sql
+
+Explore!
+
